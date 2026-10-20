@@ -3,14 +3,14 @@
 This repository contains my laboratory outputs and documentation for *CC 101 Introduction to 
 Computing* at **Sorsogon State University – Bulan Campus**.
 
-##About Me
+## About Me
 
 -**Name:** Kristine D. Bartolata 
 -**Program and Section:** BSCS 1-1  
 -**Interests:** Learning programming, Exploring technology, Learning new things
 -**Goal:** My goal is to become good at programming and to understand computers well.
 
-##Course Information 
+## Course Information 
 
 | Item | Details | 
 | --- | --- | 
@@ -18,7 +18,7 @@ Computing* at **Sorsogon State University – Bulan Campus**.
 | Instructor | Jhon Mark Ganbrentina | 
 | Academic Year | 2026–2027 | 
 
-##Portfolio Contents 
+## Portfolio Contents 
 
 1. [Week 7 – Pseudocode and Flowcharts](week07-algorithms/) 
 2. More activities will be added each week. 
@@ -44,7 +44,7 @@ END
  
 ``` 
 
-##My Workspace 
+## My Workspace 
 
 ![My laboratory computer](images/my-pc.jpg) 
 
