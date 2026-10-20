@@ -1,4 +1,4 @@
-# CC 101 Computing Portfolio 
+#CC 101 Computing Portfolio 
 
 This repository contains my laboratory outputs and documentation for *CC 101 Introduction to 
 Computing* at **Sorsogon State University – Bulan Campus**.
